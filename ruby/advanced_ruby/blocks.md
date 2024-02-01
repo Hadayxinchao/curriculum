@@ -1,3 +1,4 @@
+Some random line to Fake Commit
 ### Introduction
 
 You are already familiar with Ruby blocks from the [Basic Enumerable Methods](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/basic-enumerable-methods) lesson from earlier. But there is more depth to blocks than we've covered, so this lesson will dive deeper. Blocks are such a fundamental part of Ruby that you should get to know them inside out.
